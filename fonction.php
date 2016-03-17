@@ -20,3 +20,4 @@ function getFooter(){
         </body>
         </html>";
 }
+.
