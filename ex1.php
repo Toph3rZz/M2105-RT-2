@@ -13,6 +13,9 @@ getHeader (true,"Exercice 1");
                 <input class="btn btn-primary" type="submit" value="Valider">
             </div>
         </fieldset>
+        <input type="checkbox" name="remember" value="Enregistrer votre nom d'utilisateur">Enregistrer votre nom utilisateur
+        <?php
+        ?>
     </form>
 </div>
 <?php
